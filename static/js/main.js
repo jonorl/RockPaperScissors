@@ -175,7 +175,7 @@ function playGame() {
 // playGame();
 
 //Optional: Displaying the final score
-console.log("Human Score: " + humanScore)
-console.log("Computer Score: " + computerScore)
+// console.log("Human Score: " + humanScore)
+// console.log("Computer Score: " + computerScore)
 
 
